@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Credentials storage
+.secret
+
 # Spyder project settings
 .spyderproject
 .spyproject
