@@ -131,6 +131,7 @@ env.bak/
 venv.bak/
 
 # Credentials storage
+.secret/
 .secret
 
 # Spyder project settings
